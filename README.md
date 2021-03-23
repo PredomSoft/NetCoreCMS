@@ -1,2 +1,2 @@
 # NetCoreCMS
-Open source CMS builded  in Net Core and Blazor
+Open source CMS built in .Net Core and Blazor
